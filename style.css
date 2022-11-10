@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://media.timeout.com/images/105861847/image.jpg);
+    background-image: url("https://media.timeout.com/images/105861847/image.jpg");
     /* background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%); */
     background-size: cover;
     background-repeat: no-repeat;
